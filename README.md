@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200"/>
+<img align="right" src="https://github.com/hannsraaz/hannsraaz/blob/536786ed24fc3cb42830c89ebdd1a954ae0d07af/cat-crazy-cat.gif" width="200"/>
 
 ### 👨‍💻 About Me
 - 📊 Internship at **Math Coders (AI Trainer) ** and **TGXIT Servies (MERN Intern) **
