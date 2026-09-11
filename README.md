@@ -38,10 +38,6 @@
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hannsraaz&theme=radical)](https://github.com/hannsraaz)
-
----
-
 ![Contribution Snake](https://raw.githubusercontent.com/hannsraaz/hannsraaz/main/dist/snake.svg)
 
 ---
